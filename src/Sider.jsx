@@ -73,9 +73,8 @@ export default class Sider extends React.Component{
 
                 <div className="w3-teal">
                     <button className="w3-button w3-teal w3-xlarge w3-left" onClick={this.openLeftMenu}>&#9776;</button>
-                    <div className="w3-container">
-                        <h1>My Page</h1>
-                    </div>
+                        <span className="headerTitle">Pune Journey Booklet</span>
+
                 </div>
 
             </div>
